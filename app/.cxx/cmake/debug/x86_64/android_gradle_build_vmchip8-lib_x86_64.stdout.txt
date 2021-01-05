@@ -1,0 +1,9 @@
+ninja: Entering directory `D:\chip8\app\.cxx\cmake\debug\x86_64'
+[0/1] Re-running CMake...
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/chip8/app/.cxx/cmake/debug/x86_64
+[1/4] Building CXX object CMakeFiles/vmchip8-lib.dir/src/main/cpp/chip/vmchip.cpp.o
+[2/4] Building CXX object CMakeFiles/vmchip8-lib.dir/src/main/cpp/jin_load.cpp.o
+[3/4] Building CXX object CMakeFiles/vmchip8-lib.dir/src/main/cpp/chip/chip8.cpp.o
+[4/4] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\x86_64\libvmchip8-lib.so

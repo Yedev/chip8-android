@@ -1,0 +1,500 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\add-ons\\addon-google_apis-google-18\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\add-ons\\addon-google_apis-google-24\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\21.1.2\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\23.0.1\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\23.0.2\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\23.0.3\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\25.0.0\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\25.0.2\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\25.0.3\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\26.0.0\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\26.0.2\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\27.0.0\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\27.0.1\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\27.0.2\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\27.0.3\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\28.0.2\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\build-tools\\28.0.3\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\cmake\\3.10.2.4988404\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\cmake\\3.6.4111459\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\docs\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\emulator\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\extras\\android\\m2repository\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\extras\\google\\m2repository\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\extras\\google\\usb_driver\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\extras\\intel\\Hardware_Accelerated_Execution_Manager\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\extras\\m2repository\\com\\android\\support\\constraint\\constraint-layout-solver\\1.0.2\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\extras\\m2repository\\com\\android\\support\\constraint\\constraint-layout\\1.0.2\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\lldb\\3.1\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\ndk-bundle\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\ndk\\20.0.5594570\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\patcher\\v4\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platform-tools\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-14\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-15\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-16\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-17\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-18\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-19\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-20\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-21\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-22\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-23\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-24\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-25\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-26\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-27\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-28\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-29\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\platforms\\android-R\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-14\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-15\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-16\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-17\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-18\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-19\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-20\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-21\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-22\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-23\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-24\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-25\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-26\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-27\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-28\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\sources\\android-29\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\system-images\\android-21\\default\\armeabi-v7a\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\system-images\\android-21\\default\\x86\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\system-images\\android-25\\google_apis\\x86\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\system-images\\android-26\\google_apis\\x86\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\system-images\\android-26\\google_apis_playstore\\x86\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\system-images\\android-28\\default\\x86\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\system-images\\android-28\\default\\x86_64\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\system-images\\android-28\\google_apis\\x86\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\system-images\\android-29\\google_apis_playstore\\x86\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\system-images\\android-R\\google_apis_playstore\\x86\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\AndroidSdk\\tools\\package.xml",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027D:\\AndroidSdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027D:\\chip8\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\chip8\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  }
+]

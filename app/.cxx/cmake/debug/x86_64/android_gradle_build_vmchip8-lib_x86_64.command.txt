@@ -1,0 +1,7 @@
+Executable : D:\AndroidSdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\chip8\app\.cxx\cmake\debug\x86_64
+vmchip8-lib
+jvmArgs : 
+

@@ -1,0 +1,3 @@
+ninja: Entering directory `D:\chip8\app\.cxx\cmake\debug\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/vmchip8-lib.dir/src/main/cpp/chip/chip8.cpp.o
+[2/2] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libvmchip8-lib.so
